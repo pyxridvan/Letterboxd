@@ -23,7 +23,7 @@ Letterboxd 💻🌍
 * To be able to store my dependicies I used Maven.
 * I got my dependicies from  # https://mvnrepository.com/ 
 * Dependicies are in pom.xml file.
-* To be able to store in pom.xml ......... 
+* We are centralizing our dependicies in pom.xml 
 
 <!-- blank line -->
 
